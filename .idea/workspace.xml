@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb1e5cf-9acc-4bf7-a5d1-cff36a451e5f" name="Default Changelist" comment="" />
+    <list default="true" id="abb1e5cf-9acc-4bf7-a5d1-cff36a451e5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/PolygonOffice/Meshes/Buildings/SM_Bld_Elevator_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/PolygonOffice/Meshes/Buildings/SM_Bld_Elevator_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/SecondFloorMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/SecondFloorMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Materials/LevelEnd/M_LevelEndSign.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/LevelEnd/M_LevelEndSign.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-B8B7B8AD4E42E8685D93B993F55DF346/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-FEBA32E645CA4DADD3F16D8D0A2E25C2/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/3121431757.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WorldState/3121431757.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice-backup-2023.08.01-18.54.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,9 +40,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="abb1e5cf-9acc-4bf7-a5d1-cff36a451e5f" name="Default Changelist" comment="" />
@@ -29,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688042851311</updated>
       <workItem from="1688042854792" duration="2000" />
+      <workItem from="1691437885297" duration="7000" />
     </task>
     <servers />
   </component>
