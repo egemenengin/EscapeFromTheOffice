@@ -21,3 +21,7 @@ His office is at third floor. After three floors(levels) are completed, he wakes
 - In the first and second floors' halls and third floor, there are traps.
 - To match the theme, traps are patrolling scissors, a printer that shoots paper planes, pencils as a spike traps and laser eyed bosses.
 
+### TODO 
+- Level Fail
+- Game End
+- Applying saved player preferences to the gameplay
