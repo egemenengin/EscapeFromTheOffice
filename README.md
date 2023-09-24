@@ -2,6 +2,8 @@
 ![EFTO](ProjectImages/EFTO.png)
 ## Unreal Engine 5.1 Blueprint Project
 Escape From The Office is a first-person office-themed puzzle game.
+It is not a complete project yet.
+
 ### Story
 Its story based on one of the developer's dream. 
 It is about the dream he has after falling asleep as the end time of the work approaches. 
