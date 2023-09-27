@@ -7,15 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abb1e5cf-9acc-4bf7-a5d1-cff36a451e5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/HUDs/Menu/WBP_AboutMePanel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/HUDs/Menu/WBP_AboutMePanel.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/HUDs/Menu/WBP_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/HUDs/Menu/WBP_MainMenu.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-4005AD58407F41803533438F02077931/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-8247BD5449FD2377179CC29119B197F9/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-3412CA7148E26577CB8CEC93F296B820/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-866B9FB14C0893A552546B961419A7B3/CrashReportClient.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice-backup-2023.08.11-19.31.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice-backup-2023.09.02-21.09.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice-backup-2023.09.03-16.39.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice-backup-2023.09.03-20.17.33.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/EscapeFromTheOffice.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,7 @@
       <workItem from="1688042854792" duration="2000" />
       <workItem from="1691437885297" duration="7000" />
       <workItem from="1693690550068" duration="42000" />
+      <workItem from="1694362968248" duration="8000" />
     </task>
     <servers />
   </component>
