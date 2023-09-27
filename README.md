@@ -27,9 +27,10 @@ His office is at third floor. After three floors(levels) are completed, he wakes
 
   
 ![EFTO](ProjectImages/EFTO_2.png)
+
+
 ### TODO 
-- Level Fail
-- Game End
+- Pause Game and Pause Menu
 - Applying saved player preferences to the gameplay
 
   
