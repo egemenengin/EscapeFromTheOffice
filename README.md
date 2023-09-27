@@ -25,6 +25,12 @@ His office is at third floor. After three floors(levels) are completed, he wakes
 - There are traps in the halls of both the first and second floors and on the third floor.
 - To match the theme, traps are patrolling scissors, a printer that shoots paper planes, pencils as a spike traps and laser eyed bosses.
 
+### Level Ends
+- The character can reach the elevator which means he passed the floor.
+- He can be caught in traps which means he fails.
+- When time's up, he also fails.
+- When he reachs the end of the first floor(last level), game ends.
+
   
 ![EFTO](ProjectImages/EFTO_2.png)
 
